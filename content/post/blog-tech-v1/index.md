@@ -49,6 +49,7 @@ If you have a Hugo GitHub repo ready, deploying to production takes only 2 minut
 My only complaint is that out of the box they use a very old version of Hugo which gave some weird errors.
 Luckily you can easily config the version like I did here https://github.com/eduanb/eduanbekker.com/commit/d62c2c7f7f0799ce09f8f792cadddb06fb0a23af
 
+![Netlify Build Times](netlify-build-time.png)
 <br>
 
 ---
