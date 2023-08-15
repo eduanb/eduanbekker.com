@@ -1,7 +1,7 @@
 +++
 author = "Eduan Bekker"
 title = "Setting Up pg_partman and pg_cron in Docker"
-date = "2022-08-12"
+date = "2023-08-12"
 description = "Harder than you think"
 tags = [
     "postgres",
