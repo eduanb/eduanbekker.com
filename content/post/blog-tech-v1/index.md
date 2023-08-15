@@ -1,7 +1,7 @@
 +++
 author = "Eduan Bekker"
 title = "Blog tech V1"
-date = "2022-01-02"
+date = "2023-01-02"
 description = "The core pieces of tech for the V1 of this blog"
 tags = [
     "blogging",
