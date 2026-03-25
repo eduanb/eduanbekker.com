@@ -20,7 +20,7 @@ The format will be mostly short but too long for Twitter.
 
 Finally, I'm doing it independent. I have full control of the whole site.
 
-{{< tweet user="EduanBekker" id="1610014801035395073" >}}
+{{< x user="EduanBekker" id="1610014801035395073" >}}
 
 <br>
 

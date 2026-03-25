@@ -4,9 +4,11 @@ baseurl = "https://eduanbekker.com/"  # Include trailing slash
 # title = "Clarity"  # Edit directly from config/_default/languages.toml # alternatively, uncomment this and remove `title` entry from the aforemention file.
 #copyright = "Copyright © 2023, Eduan Bekker; all rights reserved."
 # canonifyurls = true
-paginate = 10
 theme = ["github.com/chipzoller/hugo-clarity"]
 disqusShortname = ""
+
+[pagination]
+pagerSize = 10
 
 DefaultContentLanguage = "en"
 # [languages]

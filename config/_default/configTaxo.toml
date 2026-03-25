@@ -5,19 +5,21 @@ footnoteReturnLinkContents = "^"
 [privacy]
 
 [privacy.vimeo]
-disabled = false
+disable = false
 simple = true
 
-[privacy.twitter]
-disabled = false
+[privacy.x]
+disable = false
 enableDNT = true
 simple = true
-disableInlineCSS = true
 
 [privacy.instagram]
-disabled = false
+disable = false
 simple = true
 
-[privacy.youtube]
-disabled = false
+[privacy.youTube]
+disable = false
 privacyEnhanced = true
+
+[services.x]
+disableInlineCSS = true
